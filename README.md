@@ -1,6 +1,6 @@
 ## SPACEX APP:
 
-<img src="https://ibb.co/bPYzRsf" alt="app-preview"></img>
+<img src="https://drive.google.com/file/d/1boAVd-3LJ5NK_PoheartJe_abV1lV3sP/view?usp=sharing" alt="app-preview"></img>
 
 ## How to run
 
@@ -11,13 +11,16 @@ Please follow the below instructions to run this project in your computer:
 ```bash
   https://github.com/sahidularif/spacex-app
 ```
-
-2.Run
+2.To install all req'd dependencies run:
 
 ```bash
-   npm start
+  npm install
 ```
+3.Run
 
+```bash
+ npm start or yarn start
+```
 ## Demo
 
 [AppLink](https://vibrant-booth-1de4aa.netlify.app/)
