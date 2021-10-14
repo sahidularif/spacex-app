@@ -44,6 +44,7 @@ Please follow the below instructions to run this project in your computer:
 * Rocket name
 * Rocket details
 
+### Ability to pagination
 #### More about filter: 
 * Filter happens without manual form submit.
 * Clearing the filter returns the collection to its original state.
