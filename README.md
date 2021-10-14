@@ -1,6 +1,6 @@
 ## SPACEX APP:
 
-<img src="https://drive.google.com/file/d/1boAVd-3LJ5NK_PoheartJe_abV1lV3sP/view?usp=sharing" alt="app-preview"></img>
+<img src="https://ibb.co/bPYzRsf" alt="app-preview"></img>
 
 ## How to run
 
